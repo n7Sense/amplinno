@@ -119,6 +119,7 @@
                                         </ul>
                                     </li>
                                     <li><a href="<c:url value='/contact'/>">Contact Us</a></li>
+                                    <li><a href="<c:url value='/register'/>">Register</a></li>
                                 </ul>
                                 <!-- end menu area -->
 
